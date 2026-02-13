@@ -1,4 +1,4 @@
-# bot
-teste pra roda bot em python
-sendo um ser bem desocupado rs
-oi aberto
+# Bot p/ discord
+
+bot de teste usado no discord
+obrigado
